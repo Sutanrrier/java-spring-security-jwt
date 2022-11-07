@@ -19,7 +19,6 @@ public class SimpleJwtApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleJwtApplication.class, args);
 		
-		System.out.println("Teste Jenkins");
 	}
 
 	@Bean
